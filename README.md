@@ -7,7 +7,7 @@ Software Engineering Student
 3rd Year Software Engineering student @ York University! Currently seeking Summer 2025 Software Internship roles.
 
 * 🌍  I'm based in Toronto, ON
-* ✉️  You can contact me at [ayan.unit8@gmail.com](mailto:ayan.unit8@gmail.com)
+* ✉️  You can contact me at [ayan.unit8@gmail.com](mailto:ayan1050saiyed@gmail.com)
 * ⚡  I love building projects, feel free to reach out to collaborate!
 
 ### Skills
