@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-3rd Year Software Engineering student @ York University! Currently seeking Summer 2025 Software Internship roles.
+4th Year Software Engineering student @ York University! Currently seeking Winter 2026 Software Internship roles.
 
 * 🌍  I'm based in Toronto, ON
 * ✉️  You can contact me at [ayan1050saiyed@gmail.com](mailto:ayan1050saiyed@gmail.com)
