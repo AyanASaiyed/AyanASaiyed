@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+York+University;Full-Stack+Developer+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%8F%86;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+York+University;SaaS+Founder+%F0%9F%92%AB;Full-Stack+Developer+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%8F%86;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
